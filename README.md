@@ -5,7 +5,10 @@ ds
 ds
 d
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> master
 ssdsd
 sfsfsf
 saf
@@ -17,5 +20,9 @@ asfasfasfafafafsafafssa
  ad
  ad
  sss
+<<<<<<< HEAD
+ 
+>>>>>>> master
+=======
  
 >>>>>>> master

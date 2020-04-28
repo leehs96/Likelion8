@@ -18,25 +18,7 @@ asdasdasd
 1
 4gi
 4
-14
-asdasdasddad
-
-=======
-sdasad
-sdasad
-git addgit push -u origin master
-
-
-asd
-asdasd
-asdasd
-asdasdasd
-asdasd
-asdasdasd
-131
-
 4
-4sdfsdfsfd
 14
 1
 4gi
@@ -51,6 +33,3 @@ d
 asf
 asf
 asfasfasfsaf
-
-asfasfafas
->>>>>>> master
