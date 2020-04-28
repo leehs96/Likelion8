@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdasad
 sdasad
 git addgit push -u origin master
@@ -20,3 +21,36 @@ asdasdasd
 14
 asdasdasddad
 
+=======
+sdasad
+sdasad
+git addgit push -u origin master
+
+
+asd
+asdasd
+asdasd
+asdasdasd
+asdasd
+asdasdasd
+131
+
+4
+4sdfsdfsfd
+14
+1
+4gi
+4dddddd
+14
+asdasdasddad
+
+version2
+sdasadads
+asdasdasdas
+d
+asf
+asf
+asfasfasfsaf
+
+asfasfafas
+>>>>>>> master
